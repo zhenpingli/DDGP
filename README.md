@@ -1,4 +1,4 @@
-# DDGP
+# DDPG
 DDPG is completed with object-oriented and template patterns  
 
 This work is following the course of "deepshare" and ”Python-404“ in bilibili.
